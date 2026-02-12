@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Aryan</h1>
 <h3 align="center">A passionate Mobile developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aryankumar06&label=Profile%20views&color=0e75b6&style=flat" alt="aryankumar06" /> </p>
+[![An image of @aryankumar06's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aryankumar06)](https://holopin.io/@aryankumar06)
+[![An image of @aryankumar06's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aryankumar06)](https://holopin.io/@aryankumar06)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aryankumar06" alt="aryankumar06" /></a> </p>
-
-- 🔭 I’m currently working on **Productivity-panda**
+- 🔭 I’m currently working on **My Loop Labs**
 
 - 👨‍💻 All of my projects are available at [www.aryankumar.work](www.aryankumar.work)
 
