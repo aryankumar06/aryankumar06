@@ -4,7 +4,7 @@
 [![An image of @aryankumar06's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aryankumar06)](https://holopin.io/@aryankumar06)
 
 
-- 🔭 I’m currently working on **My Loop Labs**
+- 🔭 I’m currently working on **[My Loop Labs](https://my-loop-labs.vercel.app/)**
 
 - 👨‍💻 All of my projects are available at [www.aryankumar.work](www.aryankumar.work)
 
