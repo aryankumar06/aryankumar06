@@ -19,20 +19,16 @@
 </svg>
 </h2>
 
-<h3 align="center">A passionate Mobile and Webapp developer from India</h3>
+<h3 align="center">A passionate Mobile and Webapp developer from India </h3>
 
 [![An image of @aryankumar06's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aryankumar06)](https://holopin.io/@aryankumar06)
 
 
-- 🔭 I’m currently working on **[My Loop Labs](https://my-loop-labs.vercel.app/)**
-
-- 👨‍💻 All of my projects are available at [www.aryankumar.work](www.aryankumar.work)
-
-- 💬 Ask me about **React, flutter, dart, Google Cloud , AWS**
+- 🔭  I'm work on a ton of random projects in my free time, available at 👨‍💻 [www.aryankumar.work](www.aryankumar.work)
 
 - 📫 How to reach me **aryankumarr127@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1GACD6VybdVGl3sM7K92iFUcvOmR_xrf7/view?usp=sharing](https://drive.google.com/file/d/1GACD6VybdVGl3sM7K92iFUcvOmR_xrf7/view?usp=sharing)
+- 📄 Know about my experiences [Click me 👆](https://drive.google.com/file/d/1GACD6VybdVGl3sM7K92iFUcvOmR_xrf7/view?usp=sharing)
 
 - ⚡ Fun fact **I think i'm funny**
 <picture>
