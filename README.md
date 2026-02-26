@@ -65,7 +65,7 @@
     <img src="https://skillicons.dev/icons?i=git,github,dart,flutter,figma,postgres,tailwind,javascript,typescript,kubernetes,docker,express,firebase,aws,gcp,materialui,nextjs,nodejs" />
   </a>
  </p>
-<h3 align="left">📊Contrubution & Streak Stats:</h3>
+<h3 align="left">📊Contrubutions & Streak Stats:</h3>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryankumar06" alt="aryankumar06" /></p>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryankumar06&radius=16&theme=merko&area=true&order=5&custom_title=Aryan's%20contribution%20graph&line=ffda36" height="300" alt="activity-graph graph"  />
