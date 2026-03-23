@@ -1,24 +1,5 @@
 <h2 align="center">
-<svg width="600" height="80" viewBox="0 0 600 80" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#58A6FF;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#A371F7;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  <text
-    x="50%"
-    y="55"
-    text-anchor="middle"
-    font-family="Georgia, 'Times New Roman', serif"
-    font-size="36"
-    font-weight="bold"
-    fill="url(#grad)"
-    letter-spacing="1"
-  >Hello there!, I'm Aryan 👋🏼</text>
-</svg>
-</h2>
-
+  <a href="https://app.daily.dev/aryankumar21"><img src="https://api.daily.dev/devcards/v2/1fIJ1Izq2offd9vbFICdp.png?type=wide&r=0fq" width="652" alt="Aryan Kumar's Dev Card"/></a>
 <h3 align="center">A passionate Mobile and Webapp developer from India </h3>
 
 [![An image of @aryankumar06's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aryankumar06)](https://holopin.io/@aryankumar06)
