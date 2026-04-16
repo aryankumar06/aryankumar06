@@ -22,7 +22,7 @@
 
 - 🔭 **Building in public** — a ton of random projects, apps & side experiments. Check them out at [aryankumar.work](http://www.aryankumar.work)
 - 📱 **Shipped apps** — ASAP, Centavizer, Smarter Day (live on App Store & Play Store)
-- 🌐 **Web projects** — EliteX Solutions, Online CA Services
+- 🌐 **Web Scalable Products** — [aassetiq.com](https://aassetiq.com/) , [Online CA Services] (https://onlinecaservices.com/), [Productivity Hub](https://productivity-hub-rho.vercel.app/)  
 - 🚀 **Currently launching** — [klübEATS](https://github.com/aryankumar06), a smart Flutter cafeteria ordering app
 - 🤖 **Exploring** — AI/SaaS startups & indie hacking
 - ⚡ **Fun fact** — I think I'm funny
