@@ -1,91 +1,36 @@
-<div align="center">
+# Hey, This is Aaryan
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=E21F1F&height=120&section=header&text=Hey,%20I'm%20Aryan%20👋&fontSize=32&fontColor=ffffff&fontAlignY=55&animation=fadeIn" />
+I am a software engineer who likes building products end to end — from mobile apps and backend systems to AI tooling and experimental ML systems.
 
-</div>
+Right now, I am building [**Infimium-agent**](https://infimium.com), a local-first context layer for AI coding agents. The goal is to help coding agents understand a project beyond a single prompt by giving them persistent context, semantic code search, repository awareness, and better continuity across sessions. I am also working on something deeper around how agent-driven software changes are planned, traced, and verified. That part is still private for now.
 
-<div align="center">
+Alongside Infimium, I am building **KlubEATS**, a Flutter-based platform for enterprise food ordering and vendor operations. It brings employee ordering, meal booking, QR-based entitlements, payments, vendor workflows, feedback, analytics, and repeat-ordering systems into one product.
 
-### Mobile & Web Developer · Solo Founder · India
+I am also working on **Playground.ai**, a visual canvas for designing app and web interfaces and turning them into usable UI code in your preferred stack - React, CSS, Dart, and more. The idea is to move from visual exploration to actual components and pages without breaking the flow between design and development. It is currently under construction and releasing soon.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-aryankumar.work-E21F1F?style=flat-square&logo=vercel&logoColor=white)](http://www.aryankumar.work)
-[![Email](https://img.shields.io/badge/Email-aryankumarr127%40gmail.com-E21F1F?style=flat-square&logo=gmail&logoColor=white)](mailto:aryankumarr127@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-View%20Here-E21F1F?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1GACD6VybdVGl3sM7K92iFUcvOmR_xrf7/view?usp=sharing)
+Outside product work, I spend time experimenting with applied machine learning and model architecture. I built a LightGBM-based fraud detection system over **6.36M+ transactions**, using SMOTE for class imbalance and SHAP to understand the strongest fraud signals [Notebook](https://colab.research.google.com/drive/1KyxupQPFrbNmqSBgvbwzGS5NJW3TbIuU?usp=sharing). I also built an LSTM-based stock-price prediction pipeline in Python with automated market-data collection, preprocessing, sequence generation, and evaluation using RMSE and MAE [Notebook](https://colab.research.google.com/drive/1xCk4rKimMUlo4Mq3ubAdAGtSfEyM9Ko0?usp=sharing).
 
-[![An image of @aryankumar06's Holopin badges](https://holopin.me/aryankumar06)](https://holopin.io/@aryankumar06)
+More recently, I have been researching **Salience-Gated Slot Memory for State-Space Models (SG-SSM)** — a bounded, content-addressable memory mechanism that runs alongside a standard SSM recurrence. The idea is to preserve rare or high-salience information in dedicated memory slots instead of forcing everything into a shared low-rank state, then selectively combine that memory with the normal SSM output at read time. [Research notebook](https://colab.research.google.com/drive/14FJbt3LcrX_poJYT4vQnL7LnEe6_s6Ym?usp=sharing)
 
-</div>
+Most of the things I build sit somewhere between **product engineering, AI systems, developer tooling, and applied research**. I like working close to the implementation, understanding why a system behaves the way it does, and turning rough ideas into things people can actually use.
 
----
+## Tech Stack
 
-## 🙋 About Me
+**Mobile**  
+Flutter · Dart · Firebase
 
-- 🔭 **Building in public** — a ton of random projects, apps & side experiments. Check them out at [aryankumar.work](http://www.aryankumar.work)
-- 📱 **Shipped apps** — ASAP, Centavizer, Smarter Day (live on App Store & Play Store)
-- 🌐 **Web Scalable Products** — [aassetiq.com](https://aassetiq.com/) , [Online CA Services](https://onlinecaservices.com/), [Productivity Hub](https://productivity-hub-rho.vercel.app/) Etc.
-- 🚀 **Currently launching** — [klübEATS](https://github.com/aryankumar06), a smart Flutter cafeteria ordering app and [Infimium.ai - private context layer for ai coding agents](https://infimium.com).
-- 🤖 **Exploring** — AI/SaaS startups & indie hacking
-- ⚡ **Fun fact** — I think I'm funny
+**AI / ML**  
+Python · LightGBM · LSTM · SHAP · SMOTE · Embeddings · Semantic Search · FastEmbed · Tree-sitter · Claude API
 
----
+**Agent Systems**  
+MCP · Context Engineering · Local-first AI · Codebase Indexing · Retrieval Pipelines
 
-## 💻 Tech Stack
+**Web & Backend**  
+TypeScript · JavaScript · React · Next.js · Node.js · Express · PostgreSQL · SQLite
 
-<div align="center">
-  
-### Mobile & UI
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,figma,tailwind,materialui" />
-</a>
+**Cloud & Infra**  
+AWS · GCP · Docker · Kubernetes · Git · GitHub
 
-### Web & Backend
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,nextjs,nodejs,express" />
-</a>
+## Contact
 
-### Cloud & Infra
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,firebase,postgres,docker,kubernetes,git,github" />
-</a>
-</div>
-
-## 📊 Stats & Activity
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aryankumar06&theme=dark&hide_border=true&ring=FF650E&fire=FF0000&currStreakLabel=FF650E" height="165" alt="GitHub Streak" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aryankumar06&radius=16&theme=github-compact&area=true&custom_title=Aryan's%20Contribution%20Graph&line=10935D&color=10935D&point=ffffff&area_color=&hide_border=true" height="220" alt="Contribution Graph" />
-
-</div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/aryankumar_5)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-kumarr-5450491ba/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aaryankumar_dev)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/aryankumar__/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/aaryankumar06)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/aryankumar__)
-
-</div>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=E21F1F&height=80&section=footer" />
-
-</div>
+[Email- aryankumarr127@gmail.com](mailto:aryankumarr127@gmail.com) · [LinkedIn-Click ME](https://www.linkedin.com/in/aryan-kumarr-5450491ba/)
