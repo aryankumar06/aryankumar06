@@ -14,7 +14,7 @@ More recently, I have been researching **Salience-Gated Slot Memory for State-Sp
 
 Most of the things I build sit somewhere between **product engineering, AI systems, developer tooling, and applied research**. I like working close to the implementation, understanding why a system behaves the way it does, and turning rough ideas into things people can actually use.
 
-## Tech Stack
+## My Tech Arsenal-
 
 **Mobile**  
 Flutter · Dart · Firebase
