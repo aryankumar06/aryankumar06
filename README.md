@@ -1,4 +1,4 @@
-# Hey, I'm Aryan 
+# Hey, This is Aaryan
 
 I am a software engineer who likes building products end to end, from mobile apps and backend systems to AI tooling and experimental ML.
 
@@ -12,8 +12,8 @@ On the ML side, I built a LightGBM fraud detection system over 6.36M+ transactio
 
 My recent research is Salience-Gated Slot Memory for State-Space Models (SG-SSM). It adds a bounded memory that runs alongside the normal SSM recurrence and keeps rare, high-salience information in dedicated slots instead of squeezing everything into one shared state. At read time, the memory output is combined with the SSM output ([Research notebook](https://colab.research.google.com/drive/14FJbt3LcrX_poJYT4vQnL7LnEe6_s6Ym?usp=sharing)).
 
-## Tech Stack
- 
+## My Tech Arsenal-
+
 | Area | Tools |
 |---|---|
 | Mobile | Flutter, Dart, Firebase |
